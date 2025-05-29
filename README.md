@@ -9,3 +9,11 @@ Ideal para integrar em projetos web, landing pages ou aplicações de autentica�
 - 📱 Totalmente responsivo (adaptado a telemóveis, tablets e desktops)
 - 🎨 Estilizado com CSS puro (sem frameworks)
 - 🔒 Pronto a integrar com sistemas de autenticação
+
+---
+
+## 📱 Onde mais me podes encontrar
+
+- 📸 Instagram → [@faztudev](https://www.instagram.com/faztudev)
+
+---
